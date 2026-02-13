@@ -1,6 +1,6 @@
 {
-  "minimum_version": "3.0.0",
-  "latest_version": "3.0.0",
+  "minimum_version": "2.0.0",
+  "latest_version": "2.0.0",
   "update_message": "Your version is outdated. Please download the latest version from https://dotlab.amypo.ai/amyposhield",
   "force_update": false
 }
